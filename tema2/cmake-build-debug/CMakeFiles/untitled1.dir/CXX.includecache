@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexa/CLionProjects/untitled1/Dimensiune.cpp
+iostream
+-
+Dimensiune.h
+C:/Users/Alexa/CLionProjects/untitled1/Dimensiune.h
+Pictura.h
+C:/Users/Alexa/CLionProjects/untitled1/Pictura.h
+
+C:/Users/Alexa/CLionProjects/untitled1/Dimensiune.h
+string
+-
+ostream
+-
+Pictura.h
+C:/Users/Alexa/CLionProjects/untitled1/Pictura.h
+
+C:/Users/Alexa/CLionProjects/untitled1/Pictura.h
+string
+-
+ostream
+-
+
