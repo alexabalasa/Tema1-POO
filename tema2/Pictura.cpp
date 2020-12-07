@@ -78,6 +78,14 @@ void Pictura::Evaluare() const {
     std::cout << "Costul estimativ este: " << cost << std::endl;
 
 }
+Pictura& Pictura::operator=(const Pictura& p1){
+    latime = p1.latime;
+    lungime = p1.lungime;
+    pret = p1.pret;
+    culoriFolosite = p1.culoriFolosite;
+    tehnica = p1.tehnica;
+    stil = p1.stil;
+}
 
 Pictura::~Pictura() {
     std::cout << " ~~~~~~~~~~~~ " << std::endl;

@@ -19,6 +19,7 @@ public:
     std::string get_tehnica()const;
     std::string get_stil()const;
     friend std::ostream &operator<<(std::ostream &os, const Pictura &pictura);
+    Pictura& operator=(const Pictura&);
     ~Pictura();
 
 };

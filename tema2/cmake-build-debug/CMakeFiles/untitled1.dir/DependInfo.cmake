@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Alexa/CLionProjects/untitled1/Colectionar.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Colectionar.cpp.obj"
-  "C:/Users/Alexa/CLionProjects/untitled1/Dimensiune.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Dimensiune.cpp.obj"
-  "C:/Users/Alexa/CLionProjects/untitled1/Pictura.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Pictura.cpp.obj"
-  "C:/Users/Alexa/CLionProjects/untitled1/Stil.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Stil.cpp.obj"
-  "C:/Users/Alexa/CLionProjects/untitled1/Tehnica.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Tehnica.cpp.obj"
-  "C:/Users/Alexa/CLionProjects/untitled1/main.cpp" "C:/Users/Alexa/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/Colectionar.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/Colectionar.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/Dimensiune.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/Dimensiune.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/Pictura.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/Pictura.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/Stil.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/Stil.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/Tehnica.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/Tehnica.cpp.obj"
+  "C:/Users/Alexa/CLionProjects/tema2/main.cpp" "C:/Users/Alexa/CLionProjects/tema2/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Alexa\CLionProjects\untitled1
+CMAKE_SOURCE_DIR = C:\Users\Alexa\CLionProjects\tema2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles\untitled1.dir\depend.make
@@ -63,116 +63,116 @@ include CMakeFiles\untitled1.dir\flags.make
 
 CMakeFiles\untitled1.dir\main.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled1.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\main.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\main.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\main.cpp
 <<
 
 CMakeFiles\untitled1.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\main.cpp
 <<
 
 CMakeFiles\untitled1.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\main.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\main.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\main.cpp
 <<
 
 CMakeFiles\untitled1.dir\Pictura.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\Pictura.cpp.obj: ..\Pictura.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/Pictura.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled1.dir/Pictura.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Pictura.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\Pictura.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Pictura.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\Pictura.cpp
 <<
 
 CMakeFiles\untitled1.dir\Pictura.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Pictura.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Pictura.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\Pictura.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\Pictura.cpp
 <<
 
 CMakeFiles\untitled1.dir\Pictura.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Pictura.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Pictura.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\Pictura.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Pictura.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\Pictura.cpp
 <<
 
 CMakeFiles\untitled1.dir\Colectionar.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\Colectionar.cpp.obj: ..\Colectionar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Colectionar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled1.dir/Colectionar.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Colectionar.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\Colectionar.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Colectionar.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\Colectionar.cpp
 <<
 
 CMakeFiles\untitled1.dir\Colectionar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Colectionar.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Colectionar.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\Colectionar.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\Colectionar.cpp
 <<
 
 CMakeFiles\untitled1.dir\Colectionar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Colectionar.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Colectionar.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\Colectionar.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Colectionar.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\Colectionar.cpp
 <<
 
 CMakeFiles\untitled1.dir\Dimensiune.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\Dimensiune.cpp.obj: ..\Dimensiune.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/Dimensiune.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled1.dir/Dimensiune.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Dimensiune.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\Dimensiune.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Dimensiune.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\Dimensiune.cpp
 <<
 
 CMakeFiles\untitled1.dir\Dimensiune.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Dimensiune.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Dimensiune.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\Dimensiune.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\Dimensiune.cpp
 <<
 
 CMakeFiles\untitled1.dir\Dimensiune.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Dimensiune.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Dimensiune.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\Dimensiune.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Dimensiune.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\Dimensiune.cpp
 <<
 
 CMakeFiles\untitled1.dir\Stil.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\Stil.cpp.obj: ..\Stil.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/Stil.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled1.dir/Stil.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Stil.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\Stil.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Stil.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\Stil.cpp
 <<
 
 CMakeFiles\untitled1.dir\Stil.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Stil.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Stil.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\Stil.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\Stil.cpp
 <<
 
 CMakeFiles\untitled1.dir\Stil.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Stil.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Stil.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\Stil.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Stil.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\Stil.cpp
 <<
 
 CMakeFiles\untitled1.dir\Tehnica.cpp.obj: CMakeFiles\untitled1.dir\flags.make
 CMakeFiles\untitled1.dir\Tehnica.cpp.obj: ..\Tehnica.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/Tehnica.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled1.dir/Tehnica.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Tehnica.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\untitled1\Tehnica.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\untitled1.dir\Tehnica.cpp.obj /FdCMakeFiles\untitled1.dir\ /FS -c C:\Users\Alexa\CLionProjects\tema2\Tehnica.cpp
 <<
 
 CMakeFiles\untitled1.dir\Tehnica.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled1.dir/Tehnica.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\untitled1.dir\Tehnica.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\untitled1\Tehnica.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexa\CLionProjects\tema2\Tehnica.cpp
 <<
 
 CMakeFiles\untitled1.dir\Tehnica.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled1.dir/Tehnica.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Tehnica.cpp.s /c C:\Users\Alexa\CLionProjects\untitled1\Tehnica.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\untitled1.dir\Tehnica.cpp.s /c C:\Users\Alexa\CLionProjects\tema2\Tehnica.cpp
 <<
 
 # Object files for target untitled1
@@ -195,9 +195,9 @@ untitled1.exe: CMakeFiles\untitled1.dir\Stil.cpp.obj
 untitled1.exe: CMakeFiles\untitled1.dir\Tehnica.cpp.obj
 untitled1.exe: CMakeFiles\untitled1.dir\build.make
 untitled1.exe: CMakeFiles\untitled1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled1.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\untitled1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\untitled1.dir\objects1.rsp @<<
- /out:untitled1.exe /implib:untitled1.lib /pdb:C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\untitled1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:untitled1.exe /implib:untitled1.lib /pdb:C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\untitled1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -210,6 +210,6 @@ CMakeFiles\untitled1.dir\clean:
 .PHONY : CMakeFiles\untitled1.dir\clean
 
 CMakeFiles\untitled1.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Alexa\CLionProjects\untitled1 C:\Users\Alexa\CLionProjects\untitled1 C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug C:\Users\Alexa\CLionProjects\untitled1\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Alexa\CLionProjects\tema2 C:\Users\Alexa\CLionProjects\tema2 C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug C:\Users\Alexa\CLionProjects\tema2\cmake-build-debug\CMakeFiles\untitled1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\untitled1.dir\depend
 
