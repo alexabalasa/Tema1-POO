@@ -85,6 +85,7 @@ Pictura& Pictura::operator=(const Pictura& p1){
     culoriFolosite = p1.culoriFolosite;
     tehnica = p1.tehnica;
     stil = p1.stil;
+    return *this;
 }
 
 Pictura::~Pictura() {
